@@ -1,0 +1,15 @@
+C:\Users\david\source\repos\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\SamuraiApp.Data.deps.json
+C:\Users\david\source\repos\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\SamuraiApp.Data.dll
+C:\Users\david\source\repos\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\SamuraiApp.Data.pdb
+C:\Users\david\source\repos\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\samuraiApp.Domain.dll
+C:\Users\david\source\repos\SamuraiApp\SamuraiApp.Data\bin\Debug\net6.0\samuraiApp.Domain.pdb
+C:\Users\david\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.csproj.AssemblyReference.cache
+C:\Users\david\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.AssemblyInfo.cs
+C:\Users\david\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.csproj.CopyComplete
+C:\Users\david\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.dll
+C:\Users\david\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\refint\SamuraiApp.Data.dll
+C:\Users\david\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\SamuraiApp.Data.pdb
+C:\Users\david\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net6.0\ref\SamuraiApp.Data.dll
